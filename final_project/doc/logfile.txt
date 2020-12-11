@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Users\Kevin\Desktop\funny faces\greenfeet\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\extensions\greenfoot.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\bluejcore.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\bluejeditor.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\bluejext.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\junit-4.11.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\hamcrest-core-1.3.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\bluej.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\classgraph-4.2.6.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\diffutils-1.2.1.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\commons-logging-api-1.1.2.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\jl1.0.1.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\opencsv-2.3.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\xom-1.2.9.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\lang-stride.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\nsmenufx-2.1.4.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\richtextfx-fat-0.9.0.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\guava-17.0.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\httpclient-4.1.1.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\httpcore-4.1.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\httpmime-4.1.1.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.base.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.controls.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.fxml.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.graphics.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.media.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.properties.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.swing.jar;C:\Users\Kevin\Desktop\funny faces\greenfeet\lib\javafx\lib\javafx.web.jar;C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project
+-d
+C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\SimpleTimer.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\SimpleTimer.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\doc\SimpleTimer.html...
+C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\SimpleTimer.java:24: warning - invalid usage of tag >
+C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\SimpleTimer.java:24: warning - invalid usage of tag &
+C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\SimpleTimer.java:24: warning - invalid usage of tag &
+Generating C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\doc\package-summary.html...
+Generating C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\doc\allclasses.html...
+Generating C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\doc\allclasses.html...
+Generating C:\Users\Kevin\Desktop\funny faces\gamejolt but greenfoot\final_project\doc\index.html...
+3 warnings
